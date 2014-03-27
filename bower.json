@@ -1,0 +1,15 @@
+{
+  "name": "mmmtike-tiira",
+  "version": "2.9.0",
+  "description": "tiira",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+  ],
+  "dependencies": {
+    "jquery": "1.7",
+    "jquery-ui": "1.8",
+    "angular": "v1.0.3",
+    "angularjs-file-upload": "1.1.4"
+   }
+}
